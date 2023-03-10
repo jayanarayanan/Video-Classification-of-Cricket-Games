@@ -1,4 +1,4 @@
-# Video-Classification-of-Cricket-Games
+# Video Classification of Cricket Games
 
 ## Steps to execute the code:
 1. Activate venv.
