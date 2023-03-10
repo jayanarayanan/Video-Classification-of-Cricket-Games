@@ -1,7 +1,7 @@
 # Video Classification of Cricket Games
 
 ## Steps to execute the code:
-1. Download the dataset from [here](https://drive.google.com/drive/folders/13gTO6HQ-10EollHsFkXM3wQGby7CAN1S?usp=share_link)
+1. Download the dataset and code from [here](https://drive.google.com/drive/folders/13gTO6HQ-10EollHsFkXM3wQGby7CAN1S?usp=share_link).
 2. Activate venv.
 	`venv\Scripts\activate`
 3. Get into the venv directory.
